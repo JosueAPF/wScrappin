@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+#tecnica de web scraping
+#uso de terminal tables para la creacion de un menu chafa XD
+#para salir del menu y sub-menus pulsar q
 import urllib.request
 from terminaltables import AsciiTable
 
